@@ -1,6 +1,6 @@
 {
     "name": "kdg/dns-extractor",
-    "version": "1.2",
+    "version": "1.1",
     "description": "Simple library allow to get all DNS records for the specified domain name.",
     "type": "library",
     "license": "MIT",
